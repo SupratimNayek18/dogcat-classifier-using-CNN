@@ -1,0 +1,3 @@
+HEROKU  :::  https://dogcat-classifier.herokuapp.com/
+
+PIVOTAL CF :::  http://catdogclassifier-grateful-reedbuck-pd.cfapps.io/
